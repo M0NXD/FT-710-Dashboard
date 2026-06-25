@@ -51,10 +51,10 @@ pip install pywin32
 
 ## Usage
 
-Double-click `tune_up.pyw`, or run it from a terminal:
+Double-click `ft710-dashboard.pyw`, or run it from a terminal:
 
 ```bash
-pythonw tune_up.pyw
+pythonw ft710-dashboard.pyw
 ```
 
 The `.pyw` extension launches it without a console window. The app connects to
